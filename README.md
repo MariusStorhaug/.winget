@@ -1,5 +1,6 @@
 # .winget
 
 ```pwsh
-winget import -i .\devApps.json
+Start-BitsTransfer -Source https://raw.githubusercontent.com/MariusStorhaug/.winget/main/devApps.json
+winget import -i devApps.json
 ```
