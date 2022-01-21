@@ -1,0 +1,132 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2022-01-21T09:44:56.627-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Discord.Discord",
+					"Version" : "1.0.9003"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop",
+					"Version" : "2.9.6"
+				},
+				{
+					"PackageIdentifier" : "Git.Git",
+					"Version" : "2.34.1"
+				},
+				{
+					"PackageIdentifier" : "Grammarly.ForWindows",
+					"Version" : "1.0.2.112"
+				},
+				{
+					"PackageIdentifier" : "Logitech.CameraSettings",
+					"Version" : "2.12.8.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge",
+					"Version" : "97.0.1072.69"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge.Dev",
+					"Version" : "99.0.1135.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
+					"Version" : "97.0.1072.69"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal",
+					"Version" : "1.11.3471.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Office",
+					"Version" : "16.0.14827.20130"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive",
+					"Version" : "22.012.0116.0001"
+				},
+				{
+					"PackageIdentifier" : "Rainmeter.Rainmeter",
+					"Version" : "4.5.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams",
+					"Version" : "1.5.00.1871"
+				},
+				{
+					"PackageIdentifier" : "WowUp.Wowup",
+					"Version" : "2.5.2"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86",
+					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell",
+					"Version" : "7.2.1.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
+					"Version" : "14.29.30139.0"
+				},
+				{
+					"PackageIdentifier" : "NickeManarin.ScreenToGif",
+					"Version" : "2.35.4"
+				},
+				{
+					"PackageIdentifier" : "Grammarly.ForOffice",
+					"Version" : "6.8.263"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64",
+					"Version" : "3.1.22.30721"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode",
+					"Version" : "1.63.2"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Bicep",
+					"Version" : "0.4.1124.51302"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x86",
+					"Version" : "14.29.30139.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86",
+					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AzureCLI",
+					"Version" : "2.32.0"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.GeForceExperience",
+					"Version" : "3.24.0.126"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX",
+					"Version" : "9.21.0713"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3",
+					"Version" : "3.10.1150.0"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.2.3411-preview"
+}
